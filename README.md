@@ -1,2 +1,4 @@
 # Hello-Iubat
-University project
+University projects
+This repository actually contains all of my projects.
+All projects are made for learning purpose.
